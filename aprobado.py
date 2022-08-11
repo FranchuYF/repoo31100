@@ -1,5 +1,7 @@
 import sys
 
+variable="aguante la pija de nico"
+
 if len(sys.argv) == 3:
     nota1=float(sys.argv[1])
     nota2=float(sys.argv[2])
